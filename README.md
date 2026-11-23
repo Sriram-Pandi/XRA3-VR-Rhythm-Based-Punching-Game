@@ -34,3 +34,7 @@ The APK and Unity project are hosted externally using the links below. This repo
 This project delivers an **engaging, interactive VR rhythm experience** that combines music, motion, and reaction speed for an exciting challenge.
 
 🚀 *Test it out and let me know what you think!*
+
+## Local evaluation
+
+Use the linked APK on the target headset, or open the linked Unity project with the editor version in its project settings. Check that the target timing, punch input, and score feedback work together. A source build requires the external project archive.
