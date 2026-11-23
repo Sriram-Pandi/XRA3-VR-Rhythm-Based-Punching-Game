@@ -1,6 +1,8 @@
 # XR App 3 - VR Rhythm-Based Punching Game
 
-## 📥 Files Included
+## Downloads and project files
+
+The APK and Unity project are hosted externally using the links below. This repository contains the project documentation.
 - **APK File** - Install and play the VR rhythm game on Meta Quest [**Here**](https://drive.google.com/file/d/1EjXiawAs6rCxf8a1LJtAuaKfe6zApaXJ/view?usp=sharing)
 - **Unity Project Files** - Explore the source code and scene setup [**Here**](https://drive.google.com/file/d/12RDyJYfWOTiOj1puYga9odBK0n1ScqJh/view?usp=sharing)
 
